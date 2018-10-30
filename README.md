@@ -1,5 +1,5 @@
 # Blogger to Joomla and DISQUS
-Simple Joomla CLI application for importing Blogger to content to Joomla
+Simple Joomla CLI application for importing Blogger to content to Joomla and DISQUS
 
 ## About
 
