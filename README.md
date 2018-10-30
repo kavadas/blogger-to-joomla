@@ -25,6 +25,10 @@ cd /var/www/yoursite/cli
 php BloggerToJoomla.php
 ```
 
+### DISQUS Comments
+
+After executing the script you should see a file named "comments.xml" under the /cli directory. You can use this file to import comments into DISQUS. Read the official DISQUS documentation in order to find out the exact procedure. 
+
 ## Support
 
 I do not plan to provide any support for this. It was written during the migration process for a client and I just wanted to share it. You are always free to fork it or submit your pull requests.
