@@ -3,7 +3,7 @@ Simple Joomla CLI application for importing Blogger to content to Joomla and DIS
 
 ## About
 
-This is a simple Joomla CLI application created to migrate akamatra.com from Blogger to Joomla. The application will generate Joomla articles from XML exported by Blogger. The only hardcoded part is the categories and the user mappings. As a bonus the application will also generate an XML file for importing Blogger comments to DISQUS.
+This is a quick and dirty Joomla CLI application created to migrate akamatra.com from Blogger to Joomla. The application will generate Joomla articles from the XML file exported by Blogger. The only hardcoded part is the categories and the user mappings. As a bonus the application will also generate an XML file for importing Blogger comments to DISQUS.
 
 ### Prerequisites
 
