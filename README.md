@@ -15,7 +15,7 @@ Upload the file BloggerToJoomla.php to your target Joomla installation folder un
 
 ### Running
 
-Assuming that your site is located under /var/www/yoursite:
+First make sure that you have a backup of your site. The application will create content to your site. Assuming that your site is located under /var/www/yoursite:
 ```
 cd /var/www/yoursite/cli
 php BloggerToJoomla.php
